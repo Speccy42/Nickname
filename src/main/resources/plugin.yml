@@ -1,0 +1,8 @@
+name: Nickname
+version: '${project.version}'
+description: A plugin to customize nickname and skin.
+main: fr.speccy.nickname.Nickname
+author: Speccy_
+commands:
+  nick:
+    permission: admin
